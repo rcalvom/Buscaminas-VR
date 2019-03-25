@@ -1,2 +1,2 @@
 # Buscaminas VR
-Clasico juego de buscaminas en Realidad Virual (VR)
+Clásico Juego de Buscaminas en Realidad Virtual (VR)
