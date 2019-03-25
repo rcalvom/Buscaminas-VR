@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 8342d0e0b48f29348a757a28049ce7b7
+timeCreated: 1538238048
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Ancizar Sans
+  fontNames:
+  - Ancizar Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3f85eb809df5bcc46a22cb1c09f85e8e, type: 3}
+  - {fileID: 12800000, guid: 598bb562a2595ad4d89e8feef202c3af, type: 3}
+  - {fileID: 12800000, guid: 6491f9f478afe1149ad0814b8f172ba9, type: 3}
+  - {fileID: 12800000, guid: 490f6b5571b2f6d47b33cc092928fd0e, type: 3}
+  - {fileID: 12800000, guid: 3b3a13390692ad8408826d1ac3d7dc21, type: 3}
+  - {fileID: 12800000, guid: 64ffd559da4a5f2428030b9851b9fbf7, type: 3}
+  - {fileID: 12800000, guid: 0e82c33c64e353d4d9d83c995acba5fe, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
